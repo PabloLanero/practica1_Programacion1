@@ -1,3 +1,9 @@
+/******************************************************************************
+ * Curso de Programación 1. Práctica 1
+ * Modificado por: Pablo Lanero Perez
+ * Resumen: Tarea 5
+ *****************************************************************************/
+
 #include <iostream>
 
 using namespace std;

@@ -1,7 +1,7 @@
 /******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre y Javier Martínez
- * Modificado por: Pablo Lanero
+ * Modificado por: Pablo Lanero Perez
  * Resumen: Tareas 1 y 2
  *****************************************************************************/
 #include <iostream>

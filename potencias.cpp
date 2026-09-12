@@ -1,7 +1,7 @@
 /******************************************************************************
  * Curso de Programación 1. Práctica 1
  * Autores: Miguel Ángel Latre y Javier Martínez
- * Modificado por: Pablo Lanero
+ * Modificado por: Pablo Lanero Perez
  * Resumen: Tarea 6
  *****************************************************************************/
 #include <iostream>
