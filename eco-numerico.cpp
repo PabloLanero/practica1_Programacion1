@@ -11,10 +11,25 @@ using namespace std;
  * Programa que solicita un número entero al usuario y lo escribe en pantalla.
  */
 int main() {
-    cout << "Escriba un entero: ";
+    /*
+     * Este codigo es el correspondiente de la tarea 3
+     */
+    // cout << "Escriba un entero: ";
     
-    int numero;
-    cin >> numero;
+    // int numero;
+    // cin >> numero;
+
+    // cout << "Escriba otro entero: ";
     
-    cout << "El entero escrito es el " << numero << endl;
+    // int numero2;
+    // cin >> numero2;
+    // cout << "Su suma es: " << numero + numero2 << endl;
+
+    cout << "Escriba dos numeros separados por un espacio: ";
+    int numero1;
+    cin >> numero1;
+    int numero2;
+    cin >> numero2;
+    // No me creo que con un espacio sepa separarlos (Preguntar como es que sabe separarlo el codigo al ser compilado)
+    cout << "Su suma es: " << numero1 + numero2 << endl;
 }

@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    cout << "Escriba su nombre: ";
+    /// Recuerdar preguntar si esto es valido
+    string nombre;
+    cin >> nombre;
+    cout << "La inicial de su nombre es: " << nombre[0] << endl;
+    cout << "La seguna letra es: " << nombre[1];
+    char letra1;
+    cin >> letra1;
+    char letra2;
+    cin >> letra2;
+    cout << "La inicial de su nombre es: " << letra1 << endl;
+    cout << "La seguna letra es: " << letra2;
+}
